@@ -5,7 +5,7 @@
 
 <h3 align="left">Articles:</h3>
 
-[ECCE MACHINA: Come resuscitare Nietzsche con l'intelligenza artificiale](https://www.mimesis-scenari.it/2021/05/17/ecce-macchina-come-resuscitare-nietzsche-con-lintelligenza-artificiale/)
+- [ECCE MACHINA: Come resuscitare Nietzsche con l'intelligenza artificiale](https://www.mimesis-scenari.it/2021/05/17/ecce-macchina-come-resuscitare-nietzsche-con-lintelligenza-artificiale/)
 
 
 <h3 align="left">Connect with me:</h3>
