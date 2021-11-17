@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on [Cinemetrica](https://github.com/supergeniodelmale/Cinemetrica)
 
 <h3 align="left">Articles:</h3>
+
 [ECCE MACHINA: Come resuscitare Nietzsche con l'intelligenza artificiale](https://www.mimesis-scenari.it/2021/05/17/ecce-macchina-come-resuscitare-nietzsche-con-lintelligenza-artificiale/)
 
 
