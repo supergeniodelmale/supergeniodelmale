@@ -3,6 +3,10 @@
 
 - 🔭 I’m currently working on [Cinemetrica](https://github.com/supergeniodelmale/Cinemetrica)
 
+<h3 align="left">Articles:</h3>
+- [ECCE MACHINA: Come resuscitare Nietzsche con l'intelligenza artificiale](https://www.mimesis-scenari.it/2021/05/17/ecce-macchina-come-resuscitare-nietzsche-con-lintelligenza-artificiale/)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/supergeniodelmale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supergeniodelmale" height="30" width="40" /></a>
