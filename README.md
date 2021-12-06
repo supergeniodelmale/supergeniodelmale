@@ -15,15 +15,27 @@
   <a href="https://www.instagram.com/supergeniodelmale/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/alexandresanlim">
+  <a href="https://www.linkedin.com/in/mateusz-miroslaw-lis-04959419a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@mateuszmiroslawlis">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
 </p>
-![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
+<h3 align="center">Filmmaking:</h3>
 
-![image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+<p align='center'>
+  
+  <a href="https://www.youtube.com/channel/UC3zq1KeWzYByfRB0z-Cn0Qg">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://open.spotify.com/show/2PFAnsXf0gDiGzzLHM9HEx?si=1DWhBJc-SeO9fuExB7swIA&nd=1">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
 
 <h3 align="left">Languages:</h3>
