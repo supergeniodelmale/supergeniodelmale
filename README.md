@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm supergeniodelmale</h1>
 <h3 align="center">Engineering student, AI enthusiast and indie filmmaker.</h3>
 
-- 🔭 I’m currently working on [Cinemetrica](https://github.com/supergeniodelmale/Cinemetrica)
+I’m currently working on 🎥[Cinemetrica](https://github.com/supergeniodelmale/Cinemetrica) and 📝[Sorkin-Parser](https://github.com/supergeniodelmale/Sorkin-Parser).
 
 <h3 align="left">Articles:</h3>
 
