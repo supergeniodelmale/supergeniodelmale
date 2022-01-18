@@ -10,7 +10,8 @@ I’m currently working on:
 - [ECCE MACHINA: Come resuscitare Nietzsche con l'intelligenza artificiale](https://www.mimesis-scenari.it/2021/05/17/ecce-macchina-come-resuscitare-nietzsche-con-lintelligenza-artificiale/)
 
 <h3 align="left">Films:</h3>
-- [SCRAPS OF MECHANICAL SOULS - Short film written by GPT2](https://briefcasefilms.cf/frammentidianimemeccaniche.html)
+
+- [SCRAPS OF MECHANICAL SOULS - Short film written by GPT2](https://briefcasefilms.cf/frammentidianimemeccaniche.html/)
 
 <h3 align="center">Connect with me:</h3>
 
