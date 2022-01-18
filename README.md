@@ -11,7 +11,7 @@ I’m currently working on:
 
 <h3 align="left">Films:</h3>
 
-- [SCRAPS OF MECHANICAL SOULS - Short film written by GPT2](https://briefcasefilms.cf/frammentidianimemeccaniche.html/)
+- [SCRAPS OF MECHANICAL SOULS - Short film written by GPT2](https://briefcasefilms.cf/frammentidianimemeccaniche.html)
 
 <h3 align="center">Connect with me:</h3>
 
