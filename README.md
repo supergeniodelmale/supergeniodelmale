@@ -13,7 +13,7 @@ I’m currently working on:
 
 - [Briefcase Films (Website)](https://briefcasefilms.cf)
 
-- [SCRAPS OF MECHANICAL SOULS - Short film written by GPT2](https://briefcasefilms.cf/frammentidianimemeccaniche.html)
+- [SCRAPS OF MECHANICAL SOULS - Award-winning Short Film written by GPT2](https://briefcasefilms.cf/frammentidianimemeccaniche.html)
 
 <h3 align="center">Connect with me:</h3>
 
