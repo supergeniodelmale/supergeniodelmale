@@ -1,7 +1,7 @@
 <h1 align="right">Hi 👋, I'm supergeniodelmale</h1>
 <h3 align="right">Engineering student, AI enthusiast and indie filmmaker.</h3>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 <p align='left'>
   
