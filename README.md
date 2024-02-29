@@ -1,20 +1,6 @@
 <h1 align="right">Hi 👋, I'm supergeniodelmale</h1>
 <h3 align="right">Engineering student, AI enthusiast and indie filmmaker.</h3>
 
-I’m currently working on:
--  🎥[Cinemetrica](https://github.com/supergeniodelmale/Cinemetrica);
--  📝[Sorkin-Parser](https://github.com/supergeniodelmale/Sorkin-Parser).
-
-<h3 align="left">Articles:</h3>
-
-- [ECCE MACHINA: Come resuscitare Nietzsche con l'intelligenza artificiale](https://www.mimesis-scenari.it/2021/05/17/ecce-macchina-come-resuscitare-nietzsche-con-lintelligenza-artificiale/)
-
-<h3 align="left">Films:</h3>
-
-- [Briefcase Films (Website)](https://briefcasefilms.cf)
-
-- [SCRAPS OF MECHANICAL SOULS - Award-winning Short Film written by GPT2](https://briefcasefilms.cf/frammentidianimemeccaniche.html)
-
 <h3 align="center">Connect with me:</h3>
 
 <p align='center'>
@@ -30,20 +16,6 @@ I’m currently working on:
   </a>&nbsp;&nbsp;
   
 </p>
-
-<h3 align="center">Filmmaking:</h3>
-
-<p align='center'>
-  
-  <a href="https://www.youtube.com/channel/UC3zq1KeWzYByfRB0z-Cn0Qg">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://open.spotify.com/show/2PFAnsXf0gDiGzzLHM9HEx?si=1DWhBJc-SeO9fuExB7swIA&nd=1">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-</p>
-
 
 <h3 align="left">Languages:</h3>
 
