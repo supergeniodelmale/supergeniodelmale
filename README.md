@@ -3,7 +3,7 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<p align='center'>
+<p align='left'>
   
   <a href="https://www.instagram.com/supergeniodelmale/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
