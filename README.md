@@ -1,5 +1,5 @@
 <h1 align="right">Hi 👋, I'm supergeniodelmale</h1>
-<h3 align="right">Engineering student, AI enthusiast and indie filmmaker.</h3>
+<h3 align="right">AI Engineer and Film Producer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -10,9 +10,6 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mateusz-miroslaw-lis-04959419a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://medium.com/@mateuszmiroslawlis">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
 </p>
